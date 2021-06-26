@@ -1,4 +1,5 @@
-https://user-images.githubusercontent.com/86526080/123522210-91f60980-d6d9-11eb-817b-02eb2a5c6410.mp4
+![abc](https://user-images.githubusercontent.com/86526080/123522459-0bdac280-d6db-11eb-8c73-690546d93288.png)
+
 <h1 align="center">Hi 👋, I'm Sukdeb Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
