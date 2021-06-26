@@ -21,6 +21,7 @@
 <a href="https://twitter.com/sukdeb$@hu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sukdeb$@hu" height="30" width="40" /></a>
 <a href="https://fb.com/sukdeb sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sukdeb sahu" height="30" width="40" /></a>
 <a href="https://instagram.com/sukdeb223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sukdeb223" height="30" width="40" /></a>
+ <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucksld2y1nslsuf_2ngslc_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucksld2y1nslsuf_2ngslc_w" height="30" width="40" /></a>
 </p>
 
 
